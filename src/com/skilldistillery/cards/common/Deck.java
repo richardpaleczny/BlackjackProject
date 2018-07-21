@@ -64,5 +64,5 @@ public class Deck {
 		Collections.shuffle(deck);
 
 	}
-
+	
 }
