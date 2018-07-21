@@ -12,11 +12,6 @@ public abstract class Player {
 		
 	}
 	
-	
-	public void stay() {
-		
-	}
-
 	public BlackjackHand getBjh() {
 		return bjh;
 	}
